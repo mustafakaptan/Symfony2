@@ -1,0 +1,5 @@
+enuygun_feedback:
+    resource: "@EnuygunFeedbackBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
